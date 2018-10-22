@@ -4,6 +4,6 @@ import Header from "../components/header";
 export default () => (
     <div>
         <Header/>
-        <div>friend</div>
+        <div>Nothing to see</div>
     </div>
 );
