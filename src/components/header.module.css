@@ -1,0 +1,9 @@
+.nav {
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid grey;
+}
+
+.nav-item {
+    list-style-type: upper-roman;
+}

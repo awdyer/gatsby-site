@@ -1,9 +1,4 @@
 import React from "react";
-import Header from "../components/header";
+import Container from "../components/Container";
 
-export default () => (
-    <div>
-        <Header/>
-        <div>Nothing to see</div>
-    </div>
-);
+export default () => <Container>Nothing to see</Container>;
